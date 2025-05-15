@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'✋🏻hello%20world!'&#125&#59&fontSize=50&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'✋🏻hello%20world!'&#125&#59&fontSize=50&animation=blinking" width="96%" />
 </div>
 
 <br />
@@ -34,6 +34,14 @@
 <!-- GitHub 통계 -->
 <p align="center"><b>📈 GiHub Stats</b></p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ckx9798&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="height: 200px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckx9798&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" style="height: 200px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ckx9798&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" 
+    width="48%" 
+    height="200px" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckx9798&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" 
+    width="48%" 
+    height="200px" 
+  />
 </p>
