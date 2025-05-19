@@ -36,12 +36,12 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ckx9798&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" 
-    width="48%" 
-    height="200px" 
+    width="450px" 
+    height="20%px" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckx9798&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" 
-    width="48%" 
-    height="200px" 
+    width="418px" 
+    height="20%" 
   />
 </p>
